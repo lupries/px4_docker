@@ -11,7 +11,7 @@ See [docker](./docker) folder for more details.
 ### Run Docker Container
 
 ```bash
-./run.sh
+./run_docker.sh
 ```
 
 ### Run PX4 SITL
