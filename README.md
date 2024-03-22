@@ -4,6 +4,13 @@
 
 ## Getting started
 
+### Clone repository
+
+```bash
+git clone https://github.com/lupries/px4_docker.git
+cd px4_docker && git submodule update --init --recursive
+```
+
 ### Build Docker Images from Dockerfile
 
 See [docker](./docker) folder for more details.
